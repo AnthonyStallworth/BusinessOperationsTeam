@@ -12,7 +12,7 @@ This project leverages python 3.7 with the following packages:
 
 * [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entrypoint.
 
-* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
+* [questionary](https://github.com/questionary) - For interactive user prompts and dialogs
 
 ---
 
